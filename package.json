@@ -1,0 +1,17 @@
+{
+  "name": "spanishteacher",
+  "version": "1.0.0",
+  "description": "A teacher for walking you through the spanish language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "type": "module",
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.1.4",
+    "openai": "^3.2.1"
+  }
+}
